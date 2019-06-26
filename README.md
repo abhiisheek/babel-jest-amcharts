@@ -1,6 +1,6 @@
 # babel-jest-amcharts
 
-[Babel](https://github.com/babel/babel) [jest](https://github.com/facebook/jest) plugin to be used with [amCharts](https://www.amcharts.com/)
+[Babel](https://github.com/babel/babel) [jest](https://github.com/facebook/jest) plugin customised to work with [amCharts](https://www.amcharts.com/)
 
 ## Usage
 
