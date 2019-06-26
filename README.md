@@ -12,9 +12,7 @@ npm install --D babel-jest-amcharts @babel/core
 
 ## Setup
 
-_Note: this step is only required if you are using `babel-jest` with additional code preprocessors._
-
-To explicitly define `babel-jest-amcharts"` as a transformer for your JavaScript code, map _.js_ files to the `babel-jest` module.
+To explicitly define `babel-jest-amcharts` as a transformer for your JavaScript code, map _.js_ files to the `babel-jest` module.
 
 ```json
 "transform": {
