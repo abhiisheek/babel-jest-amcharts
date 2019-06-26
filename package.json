@@ -1,0 +1,33 @@
+{
+  "name": "babel-jest-amcharts",
+  "version": "0.0.1",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": {
+    "name": "Abhishek Ramesh",
+    "email": "abhiisheek@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhiisheek/babel-jest-amcharts.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "amcharts4",
+    "babel",
+    "jest",
+    "react"
+  ],
+  "peerDependencies": {
+    "babel-jest": "^24.0.0",
+    "babel-preset-react-app": "^9.0.0"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "babel-jest": "^24.0.0",
+    "babel-preset-react-app": "^9.0.0"
+  }
+}
